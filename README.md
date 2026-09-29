@@ -12,27 +12,27 @@ In 2026 I started Meridian, a free international online math olympiad. The first
 
 #### Projects
 
-**[Meridian](https://meridianmath.org)**
+**[Meridian](https://meridianmath.org)**<br>
 Free online olympiad, open to students from any country. Registration, the contest itself, grading and a public ranking.
 `JavaScript` `Firebase` `Firestore`
 
-**Cevian**
+**Cevian**<br>
 An interactive geometry tool for olympiad problems, built for Meridian.
 `JavaScript` `Canvas`
 
-**[Math Fluency Test](https://vladconstantinescu.com/fluency/)**
+**[Math Fluency Test](https://vladconstantinescu.com/fluency/)**<br>
 An adaptive test based on a Rasch model. It gives the result as a rarity, "1 in N". Two sections: Classic, with school mathematics, and Olympiad, with questions about ideas only, no computation.
 `JavaScript` `Python`
 
-**[Proctor](https://vladconstantinescu.com/proctor/)**
+**[Proctor](https://vladconstantinescu.com/proctor/)**<br>
 Supervision for online contests without video.
 `JavaScript`
 
-**[Fundamental Engine](https://vladconstantinescu.com/fundamental/)**
+**[Fundamental Engine](https://vladconstantinescu.com/fundamental/)**<br>
 Fundamental ranking and backtesting for 49 US companies.
 `Python` `FastAPI` `Next.js`
 
-**Books**
+**Books**<br>
 Four books of olympiad problems with complete solutions. English and French editions on Amazon; the Romanian edition is coming out at Editura GIL.
 
 #### Results
